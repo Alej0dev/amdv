@@ -5,14 +5,14 @@ import SectionTitle from "../components/SectionTitle";
 const couples = [
   {
     id: 1,
-    characters: "Pucca & Garu",
-    subtitle: "Un amor que nunca se rinde",
-    emoji: "❤️",
-    image: "/characters/pucca-garu.jpg",
+    characters: "Jack & Sally",
+    subtitle: "Un amor diferente, pero muy especial",
+    emoji: "🎃",
+    image: "/characters/jack-sally.jpg",
     reason:
-      "Hay algo en Pucca y Garu que me hace pensar en esa clase de amor que no sabe sentirse a medias. Pucca quiere con una intensidad que no intenta esconder y Garu, aunque muchas veces parezca no saber qué hacer con tanto cariño, termina formando parte de su mundo. Cuando pienso en ellos y después pienso en ti, no me imagino copiando su historia; me imagino tomando esa manera tan valiente de querer y convirtiéndola en algo nuestro.\n\nPorque contigo no quiero aprender a querer poquito. No quiero guardar un “te extraño” por miedo a sonar demasiado sentimental, ni pensar dos veces antes de decirte que eres preciosa, que me haces falta o que me encanta tenerte en mi vida. Quiero poder mirarte y que mi primera reacción sea acercarme. Quiero que sepas que cuando me nace abrazarte, decirte algo bonito o recordarte cuánto te amo, no voy a sentir que es demasiado.",
+      "Sé que te encantan las películas de Tim Burton, así que decidí escoger a Jack y Sally porque sentí que no podían faltar en esta lista.\n\nMe gusta mucho la historia de ellos porque, aunque son dos personajes muy diferentes, poco a poco terminan encontrando algo especial el uno en el otro. Sally conoce a Jack de una manera muy profunda y, aunque muchas veces no está de acuerdo con sus decisiones, sigue preocupándose por él y tratando de hacerle ver las cosas desde otra perspectiva.\n\nY creo que eso es algo bonito de una relación. No se trata de que dos personas tengan que ser exactamente iguales o pensar siempre de la misma manera, sino de poder conocerse, entenderse y estar ahí incluso cuando las cosas no salen como uno esperaba.\n\nAdemás, siendo una de tus películas favoritas de ese estilo, quería que hubiera una pareja que también tuviera un poquito de ese mundo que sé que tanto te gusta. Así que cuando pensé en qué pareja poner aquí, Jack y Sally fueron una elección bastante fácil.",
     promise:
-      "Si fueras tú quien estuviera frente a mí, yo también encontraría mil maneras de acercarme. Te buscaría cuando te extrañe, te cuidaría cuando pueda, te haría reír cuando lo necesites y te recordaría que eres importante para mí.",
+      "Quiero que podamos ser diferentes en muchas cosas y aun así encontrar siempre esa conexión que nos hace elegirnos. Y si algún día tenemos nuestras propias historias un poquito extrañas, espero que podamos vivirlas juntos.",
   },
 
   {
